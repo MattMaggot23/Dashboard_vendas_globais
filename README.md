@@ -40,12 +40,3 @@ Se você deseja criar seu próprio dashboard analítico de vendas globais, siga 
 
 7. **Compartilhamento:** Determine como deseja compartilhar o dashboard com outros usuários.
 
-## Exemplo
-
-![Exemplo de Dashboard](dashboard_example.png)
-
-Este é um exemplo de como o dashboard pode ser visualizado.
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
